@@ -12,6 +12,6 @@ If you wish to have a mentor in tech or a new friend that in software engineerin
 
 - 📫 How to reach me: [@_cat_turner](https://twitter.com/_cat_turner)
 
-## Profiles
-- linkedin: https://www.linkedin.com/in/cathleenturner/
-- angelist: https://angel.co/u/cathleen-turner
+## check me out on
+- [linkedin](https://www.linkedin.com/in/cathleenturner/) 💼
+- [angelist](https://angel.co/u/cathleen-turner)✌️
