@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with mentorship. I'd like to be a leader and build great things that help people.
 - 💬 Ask me about python, go, graphql, devops, infrastructure, aws, spanish, coronavirus, and growing hydroponic tomatoes, peppers, and herbs 🌱
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a dog named Roxi, I like paint and draw, I do tarot readings, and I like building new things and exploring new tech. I also really like lemonade and coffee milk.
+- ⚡ Fun fact: I paint and draw, do tarot readings, and I like building new things and exploring new tech. I also really like lemonade and coffee milk.
 
 If you wish to have a mentor in tech or a new friend that in software engineering, hmu!
 
