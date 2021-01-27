@@ -1,6 +1,6 @@
 ### Hola! Soy Gato!
 
-- 🔭 I’m currently working on building portable benefits for everyone [@Catch](https://www.catch.co/)
+- 🔭 I’m currently working on building [Listful.ai](https://www.getlistful.com/) to make your online shopping research fast and social.
 - 🌱 I’m currently learning about the history of Cambridge.
 - 👯 I’m looking to collaborate on open source projects that improves people's experiences with deployment and devops. Also any open source projects to help making voting more accessible to people!
 - 🤔 I’m looking for help with mentorship. I'd like to be a leader and build great things that help people.
