@@ -1,4 +1,4 @@
-s### Hola! Soy Gato!
+### Hola! Soy Gato!
 
 - 🔭 I’m currently working on building [Listful.ai](https://www.getlistful.com/) to make your online shopping research fast and social.
 - 🌱 I’m currently learning about React Native, NLP, and a lot of other stuff.
