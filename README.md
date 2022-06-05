@@ -1,6 +1,6 @@
 ### Hola! Soy Gato!
 
-- 🔭 I’m currently working on building [Listful.ai](https://www.getlistful.com/) to make your online shopping research fast and social.
+- 🔭 I’m currently working on building CZero Foods - launch your food brands in days, with net 0 carbon impact!
 - 🌱 I’m currently learning about React Native, NLP, and a lot of other stuff.
 - 👯 I’m looking for people who are passionate about making ecomm sustainable.
 - 🤔 I’m looking for help with mentorships on how to run a business.
