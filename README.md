@@ -1,18 +1,9 @@
 ### Hola! Soy Gato!
 
-- 🔭 I’m currently working on building CZero Foods - launch your food brands in days, with net 0 carbon impact!
-- 🌱 I’m currently learning about React Native, NLP, and a lot of other stuff.
-- 👯 I’m looking for people who are passionate about making ecomm sustainable.
-- 🤔 I’m looking for help with mentorships on how to run a business.
-- 💬 Ask me about python, go, graphql, devops, infrastructure, aws, spanish, coronavirus, and growing hydroponic tomatoes, peppers, and herbs 🌱
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I paint and draw, do tarot readings, and I like building new things and exploring new tech. I also really like lemonade and coffee milk.
-
-If you wish to have a mentor in tech or a new friend that in software engineering, hmu!
+- 🔭 I’m currently building Autaly - we help businesses get paid faster by turning their work into a payment.
+- My interestes are accelerating progress, empowering people, and supporting causes that protect humanity and the planet 🌎
+- Are you a talent engineer and looking for your next challenege? Let's talk. Checkout our repos.
 
 - 📫 How to reach me: [@_cat_turner](https://twitter.com/_cat_turner)
 
-## check me out on
-- [linkedin](https://www.linkedin.com/in/cathleenturner/) 💼
-- [angelist](https://angel.co/u/cathleen-turner)✌️
-- [this pdf](https://gato-0120394.s3-us-west-2.amazonaws.com/Cathleen_Turner.pdf)
+
